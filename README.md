@@ -69,14 +69,14 @@ O simulador automático inclui:
       ≥ 17.5%  → 🔴 NÃO ACEITÁVEL
 
 # Classificação para números menos repetidos
-      ≥ 9.0%   → 🟢 PERFEITO
-      ≥ 8.0%   → 🟢 ÓTIMO
-      > 7.0%   → 🟡 BOM
-      ≥ 5.5%   → 🟠 ACEITÁVEL
-      < 5.5%   → 🔴 NÃO ACEITÁVEL
+- ≥ 9.0%   → 🟢 PERFEITO
+- ≥ 8.0%   → 🟢 ÓTIMO
+- > 7.0%   → 🟡 BOM
+- ≥ 5.5%   → 🟠 ACEITÁVEL
+- < 5.5%   → 🔴 NÃO ACEITÁVEL
 
 
-#**Casos de Uso**
+ # Casos de Uso
 Jogos e Simulações: Dados virtuais, sorteios, roleta
 
 Testes e QA: Geração de dados de teste
@@ -87,9 +87,9 @@ Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
 
 Machine Learning: Inicialização de pesos neuronais
 
-Licença
+**Licença**
 Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo LICENSE para detalhes.
 
-👨‍💻 Autor
+**Autor**
 Sam Jamsh - Desenvolvedor e pesquisador em algoritmos
 
