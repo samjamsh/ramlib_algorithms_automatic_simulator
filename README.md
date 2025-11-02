@@ -22,42 +22,42 @@ Uma biblioteca avançada para geração de números pseudoaleatórios baseada em
 Algoritmos Implementados
 New Algorithm
    
-     Combina seed customizado com operações matemáticas
+- Combina seed customizado com operações matemáticas
 
-     Foco em distribuição uniforme
+- Foco em distribuição uniforme
 
 Random Algorithm
    
-     Utiliza múltiplas fontes de tempo
+- Utiliza múltiplas fontes de tempo
 
-     Operações bitwise para aumentar entropia
+- Operações bitwise para aumentar entropia
 
 Last Algorithm
    
-     Abordagem híbrida com cálculos complexos
+- Abordagem híbrida com cálculos complexos
 
-     Balance entre performance e aleatoriedade
+- Balance entre performance e aleatoriedade
 
 Original (randrange)
    
-     Referência usando a biblioteca padrão do Python
+- Referência usando a biblioteca padrão do Python
   
-     Para comparação e benchmarking
+- Para comparação e benchmarking
 
 
 **Sistema de Avaliação**
 
 O simulador automático inclui:
 
-      Métricas Coletadas
+- Métricas Coletadas
 
-      Frequência de repetição por número
+- Frequência de repetição por número
 
-      Porcentagem de distribuição
+- Porcentagem de distribuição
 
-      Números mais e menos frequentes
+- Números mais e menos frequentes
 
-      Análise de padrões temporais
+- Análise de padrões temporais
 
 **Sistema de Scoring*
 
@@ -86,6 +86,7 @@ Criptografia Educacional: Estudo de geração de seeds
 Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
 
 Machine Learning: Inicialização de pesos neuronais
+
 
 **Licença**
 
