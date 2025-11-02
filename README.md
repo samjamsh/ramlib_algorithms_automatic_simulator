@@ -100,3 +100,4 @@ Machine Learning: Inicialização de pesos neuronais
 
       Sam Jamsh - Desenvolvedor e pesquisador em algoritmos
 
+
