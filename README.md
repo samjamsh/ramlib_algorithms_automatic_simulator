@@ -89,7 +89,7 @@ Machine Learning: Inicialização de pesos neuronais
 
 
 # Modo de Usdo
-      python simulator.py
+      python auto_simulator.py
 
 
 **Licença**
