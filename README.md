@@ -89,6 +89,7 @@ Machine Learning: Inicialização de pesos neuronais
 
 
 
+
 **Licença**
 
 Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo LICENSE para detalhes.
