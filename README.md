@@ -22,61 +22,61 @@ Uma biblioteca avançada para geração de números pseudoaleatórios baseada em
 Algoritmos Implementados
 New Algorithm
    
-  Combina seed customizado com operações matemáticas
+     Combina seed customizado com operações matemáticas
 
-  Foco em distribuição uniforme
+     Foco em distribuição uniforme
 
 Random Algorithm
    
-  Utiliza múltiplas fontes de tempo
+     Utiliza múltiplas fontes de tempo
 
-  Operações bitwise para aumentar entropia
+     Operações bitwise para aumentar entropia
 
 Last Algorithm
    
-  Abordagem híbrida com cálculos complexos
+     Abordagem híbrida com cálculos complexos
 
-  Balance entre performance e aleatoriedade
+     Balance entre performance e aleatoriedade
 
 Original (randrange)
    
-  Referência usando a biblioteca padrão do Python
+     Referência usando a biblioteca padrão do Python
   
-  Para comparação e benchmarking
+     Para comparação e benchmarking
 
 
-Sistema de Avaliação
+**Sistema de Avaliação**
 
 O simulador automático inclui:
 
-Métricas Coletadas
+      Métricas Coletadas
 
-Frequência de repetição por número
+      Frequência de repetição por número
 
-Porcentagem de distribuição
+      Porcentagem de distribuição
 
-Números mais e menos frequentes
+      Números mais e menos frequentes
 
-Análise de padrões temporais
+      Análise de padrões temporais
 
-Sistema de Scoring
+**Sistema de Scoring*
 
 # Classificação para números mais repetidos
-   ≤ 11.0%  → 🟢 PERFEITO
-   ≤ 13.0%  → 🟢 ÓTIMO  
-   ≤ 14.5%  → 🟡 BOM
-   < 17.5%  → 🟠 ACEITÁVEL
-   ≥ 17.5%  → 🔴 NÃO ACEITÁVEL
+      ≤ 11.0%  → 🟢 PERFEITO
+      ≤ 13.0%  → 🟢 ÓTIMO  
+      ≤ 14.5%  → 🟡 BOM
+      < 17.5%  → 🟠 ACEITÁVEL
+      ≥ 17.5%  → 🔴 NÃO ACEITÁVEL
 
 # Classificação para números menos repetidos
-   ≥ 9.0%   → 🟢 PERFEITO
-   ≥ 8.0%   → 🟢 ÓTIMO
-   > 7.0%   → 🟡 BOM
-   ≥ 5.5%   → 🟠 ACEITÁVEL
-   < 5.5%   → 🔴 NÃO ACEITÁVEL
+      ≥ 9.0%   → 🟢 PERFEITO
+      ≥ 8.0%   → 🟢 ÓTIMO
+      > 7.0%   → 🟡 BOM
+      ≥ 5.5%   → 🟠 ACEITÁVEL
+      < 5.5%   → 🔴 NÃO ACEITÁVEL
 
 
-Casos de Uso
+#**Casos de Uso**
 Jogos e Simulações: Dados virtuais, sorteios, roleta
 
 Testes e QA: Geração de dados de teste
