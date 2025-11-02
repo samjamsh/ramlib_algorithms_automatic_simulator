@@ -20,6 +20,7 @@ Uma biblioteca avançada para geração de números pseudoaleatórios baseada em
 
 ## Estrutura do Projeto
 Algoritmos Implementados
+
 New Algorithm
    
 - Combina seed customizado com operações matemáticas
