@@ -88,6 +88,8 @@ Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
 Machine Learning: Inicialização de pesos neuronais
 
 
+# Modo de Usdo
+      python simulator.py
 
 
 **Licença**
