@@ -89,7 +89,7 @@ Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
 Machine Learning: Inicialização de pesos neuronais
 
 
-# Modo de Usdo
+# Modo de Uso
       python auto_simulator.py
 
 
