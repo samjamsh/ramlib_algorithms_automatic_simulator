@@ -71,7 +71,7 @@ O simulador automático inclui:
 # Classificação para números menos repetidos
 - ≥ 9.0%   → 🟢 PERFEITO
 - ≥ 8.0%   → 🟢 ÓTIMO
-- > 7.0%   → 🟡 BOM
+- **>** 7.0%   → 🟡 BOM
 - ≥ 5.5%   → 🟠 ACEITÁVEL
 - < 5.5%   → 🔴 NÃO ACEITÁVEL
 
@@ -86,6 +86,7 @@ Criptografia Educacional: Estudo de geração de seeds
 Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
 
 Machine Learning: Inicialização de pesos neuronais
+
 
 
 **Licença**
