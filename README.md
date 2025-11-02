@@ -62,11 +62,11 @@ O simulador automático inclui:
 **Sistema de Scoring*
 
 # Classificação para números mais repetidos
-      ≤ 11.0%  → 🟢 PERFEITO
-      ≤ 13.0%  → 🟢 ÓTIMO  
-      ≤ 14.5%  → 🟡 BOM
-      < 17.5%  → 🟠 ACEITÁVEL
-      ≥ 17.5%  → 🔴 NÃO ACEITÁVEL
+- ≤ 11.0%  → 🟢 PERFEITO
+- ≤ 13.0%  → 🟢 ÓTIMO  
+- ≤ 14.5%  → 🟡 BOM
+- < 17.5%  → 🟠 ACEITÁVEL
+- ≥ 17.5%  → 🔴 NÃO ACEITÁVEL
 
 # Classificação para números menos repetidos
 - ≥ 9.0%   → 🟢 PERFEITO
@@ -88,8 +88,10 @@ Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
 Machine Learning: Inicialização de pesos neuronais
 
 **Licença**
+
 Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo LICENSE para detalhes.
 
 **Autor**
+
 Sam Jamsh - Desenvolvedor e pesquisador em algoritmos
 
