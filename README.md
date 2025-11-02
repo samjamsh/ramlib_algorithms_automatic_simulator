@@ -59,9 +59,9 @@ O simulador automático inclui:
 
 - Análise de padrões temporais
 
-**Sistema de Scoring*
 
-# Classificação para números mais repetidos
+
+# SIstema de Classificação de Scoring para números mais repetidos
 - ≤ 11.0%  → 🟢 PERFEITO
 - ≤ 13.0%  → 🟢 ÓTIMO  
 - ≤ 14.5%  → 🟡 BOM
@@ -92,9 +92,9 @@ Machine Learning: Inicialização de pesos neuronais
 
 **Licença**
 
-Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo LICENSE para detalhes.
+      Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo LICENSE para detalhes.
 
 **Autor**
 
-Sam Jamsh - Desenvolvedor e pesquisador em algoritmos
+      Sam Jamsh - Desenvolvedor e pesquisador em algoritmos
 
