@@ -19,28 +19,24 @@ Uma biblioteca avançada para geração de números pseudoaleatórios baseada em
 - **100% Independente**: Não depende de bibliotecas externas além do Python padrão
 
 ## Estrutura do Projeto
-📊 Algoritmos Implementados
+Algoritmos Implementados
 1. New Algorithm
-Combina seed customizado com operações matemáticas
-
-Foco em distribuição uniforme
+  Combina seed customizado com operações matemáticas
+  Foco em distribuição uniforme
 
 2. Random Algorithm
-Utiliza múltiplas fontes de tempo
-
-Operações bitwise para aumentar entropia
+  Utiliza múltiplas fontes de tempo
+  Operações bitwise para aumentar entropia
 
 3. Last Algorithm
-Abordagem híbrida com cálculos complexos
-
-Balance entre performance e aleatoriedade
+  Abordagem híbrida com cálculos complexos
+  Balance entre performance e aleatoriedade
 
 4. Original (randrange)
-Referência usando a biblioteca padrão do Python
+  Referência usando a biblioteca padrão do Python
+  Para comparação e benchmarking
 
-Para comparação e benchmarking
-
-🔬 Sistema de Avaliação
+Sistema de Avaliação
 O simulador automático inclui:
 
 Métricas Coletadas
@@ -67,3 +63,22 @@ Sistema de Scoring
 > 7.0%   → 🟡 BOM
 ≥ 5.5%   → 🟠 ACEITÁVEL
 < 5.5%   → 🔴 NÃO ACEITÁVEL
+
+
+Casos de Uso
+Jogos e Simulações: Dados virtuais, sorteios, roleta
+
+Testes e QA: Geração de dados de teste
+
+Criptografia Educacional: Estudo de geração de seeds
+
+Pesquisa Acadêmica: Análise de algoritmos pseudoaleatórios
+
+Machine Learning: Inicialização de pesos neuronais
+
+Licença
+Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo LICENSE para detalhes.
+
+👨‍💻 Autor
+Sam Jamsh - Desenvolvedor e pesquisador em algoritmos
+
