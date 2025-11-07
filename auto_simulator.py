@@ -99,7 +99,7 @@ class generate_random():
 
         last = ((seed * calc1) % calc2) + 1
 
-        original = randrange(1, 11)
+        original = randrange(a, b + 1)
         #print("calc1:", calc1)
         #print("calc2:", calc2)
         #print("new:", new)
